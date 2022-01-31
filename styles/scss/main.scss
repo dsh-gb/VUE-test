@@ -1,0 +1,19 @@
+.main { 
+    background-color: #ccc;
+    // background-image: url('../media/img/water.jpg');
+
+    h2 {
+    color: #333;
+    }
+
+    &__title {
+        text-transform: uppercase;
+        font-size: 50px;
+        color: #333;
+    }
+
+    &__text {
+        font-size: 20px;
+        font-weight: bold;
+    }
+}
